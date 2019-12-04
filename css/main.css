@@ -2411,7 +2411,9 @@ html.no-csstransitions .home-content__main {
 }
 
 .services-list .service-text {
-    margin-left: 7.8rem;
+    margin-left: 15rem;
+    font-size: 20px;
+
 }
 
 .services-list .service-icon {
